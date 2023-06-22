@@ -1,0 +1,30 @@
+.product {
+  padding: 1rem 1.5rem;
+  border-width: 1px;
+  border-radius: 0.25rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+}
+.product img {
+  width: 16.67%;
+  margin-bottom: 0.5rem;
+}
+.product h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  text-align: center;
+}
+.product .product-price {
+  font-weight: bold;
+}
+.product button {
+  border-width: 1px;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  background-color: rgb(250 204 21/var(--tw-bg-opacity));
+}
+
+/*# sourceMappingURL=product.component.css.map */

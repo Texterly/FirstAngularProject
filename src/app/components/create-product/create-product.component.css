@@ -1,0 +1,18 @@
+form input {
+  border-width: 1px;
+  width: 100%;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.5rem;
+}
+form p {
+  color: rgb(220 38 38/var(--tw-text-opacity));
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+form button {
+  padding: 0.5rem 1rem;
+  background-color: rgb(37 99 235/var(--tw-bg-opacity));
+  color: rgb(255 255 255/var(--tw-text-opacity));
+}
+
+/*# sourceMappingURL=create-product.component.css.map */
